@@ -1,1 +1,27 @@
+div {
+    text-align: center;
+}
 
+span {
+    
+    color: red;
+}
+
+.rps{
+    
+    margin: auto;
+    display: block;
+    
+}
+
+input {
+    
+    text-align: center;
+    
+}
+
+body {
+    
+ background-color: yellow;
+
+}
